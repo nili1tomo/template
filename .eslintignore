@@ -3,4 +3,4 @@ artifacts
 cache
 coverage
 node_modules
-typechain-types
+typechain-types=1234567890
